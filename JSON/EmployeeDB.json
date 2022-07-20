@@ -1,0 +1,29 @@
+{
+    "employee": [
+      {
+        "_name": "Suraj Dal",
+        "_profilePic": "Images/Ellipse -2.png",
+        "_gender": "Male",
+        "_department": [
+          "Engineer"
+        ],
+        "_salary": "368000",
+        "_notes": "",
+        "_startDate": "2022-06-30T18:30:00.000Z",
+        "id": 1
+      },
+      {
+        "_name": "Pooja Jadhav",
+        "_profilePic": "Images/Ellipse -1.png",
+        "_gender": "Female",
+        "_department": [
+          "Sales",
+          "Engineer"
+        ],
+        "_salary": "433000",
+        "_notes": "undefined",
+        "_startDate": "2000-12-31T18:30:00.000Z",
+        "id": 2
+      }
+    ]
+  }
